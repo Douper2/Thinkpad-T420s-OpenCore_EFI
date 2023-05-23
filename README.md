@@ -5,8 +5,8 @@ This is a repo which has the EFI assets for hackintoshing the Thinkpad T420s wit
 
 
 **BIOS settings:**
-Config -> Display -> Graphics Device (Integrated Gr)
-Config ->  Serial ATA (SATA) -> SATA Controller Mode Options (AHCI)
-Security -> Intel Virtualization Technology [Disabled]
-Security -> Intel VT-d Feature [Disabled]
-Startup -> UEFI/Legacy Boot [UEFI Only]
+Config -> Display -> Graphics Device (Integrated Gr).
+Config ->  Serial ATA (SATA) -> SATA Controller Mode Options (AHCI).
+Security -> Intel Virtualization Technology [Disabled].
+Security -> Intel VT-d Feature [Disabled].
+Startup -> UEFI/Legacy Boot [UEFI Only].
