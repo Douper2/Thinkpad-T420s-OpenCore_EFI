@@ -2,6 +2,9 @@
 Opencore version: 0.9.4
 <br>
  </br>
+ Version recommended to boot: High Sierra
+ <br>
+  </br>
 This is a repo which has the EFI things for hackintoshing the Thinkpad T420s with the I7-2620M version of the laptop
 <br>
   </br>
